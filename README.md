@@ -1,7 +1,7 @@
-### TheHollenVAI
+### sol
 Hello There
 ------------------------------------------------------------------------------
-- 🔭 I’m currently working on Code
-- 🌱 I’m currently learning Code
-- 👯 I’m looking to collaborate on Code
-- 🤔 I’m looking for help with Code
+- 🔭 I’m currently working on valorant
+- 🌱 I’m currently learning valorant
+- 👯 I’m looking to collaborate on valorant
+- 🤔 I’m looking for help with valorant
