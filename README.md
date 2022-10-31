@@ -1,7 +1,7 @@
 ### sol
 Hello There
 ------------------------------------------------------------------------------
-- 🔭 I’m currently working on valorant
-- 🌱 I’m currently learning valorant
-- 👯 I’m looking to collaborate on valorant
-- 🤔 I’m looking for help with valorant
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning stuff
+- 👯 I’m looking to collaborate on nothing
+- 🤔 I’m looking for help with stuff
